@@ -1,11 +1,3 @@
-function j() {
-  fname=$(declare -f -F _z)
-
-  [ -n "$fname" ] || source "$DOTLY_PATH/modules/z/z.sh"
-
-  _z "$1"
-}
-
 function lazy_nvm {
   unset -f nvm
   unset -f npm
