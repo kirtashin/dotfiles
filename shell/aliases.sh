@@ -1,5 +1,5 @@
-alias ll = "exa -l"
-alias la = "exa -la"
+alias ll="exa -l"
+alias la="exa -la"
 
 #Jumps
 alias ~="cd ~"
