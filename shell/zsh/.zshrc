@@ -130,7 +130,6 @@ unset key
 # }}} End configuration added by Zim install
 
 export NVM_DIR=~/.nvm
-source .lazy-nvm.sh
 alias allow-ip='sh /Users/sam/Library/CloudStorage/OneDrive-Personal/Work/Bioksan/sh/authorize-ip/authorize-ip.sh'
 alias ll="ls -l"
 alias la="ls -la"
