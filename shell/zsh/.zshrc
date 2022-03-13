@@ -1,3 +1,4 @@
+source "$DOTFILES_PATH/shell/init.sh"
 # Start configuration added by Zim install {{{
 #
 # User configuration sourced by interactive shells
