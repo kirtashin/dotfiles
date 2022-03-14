@@ -2,6 +2,8 @@
 #Jumps
 alias ~="cd ~"
 alias dotfiles="cd ~/.dotfiles"
+alias j="z"
+
 
 #Util
 alias copy="pbcopy"

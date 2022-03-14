@@ -9,6 +9,7 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "$(brew --prefix nvm)/nvm.sh" ] && source $(brew --prefix nvm)/nvm.sh # osx
 }
 
+
 # aliases
 function nvm { lazy_nvm; nvm "$@"; }
 function npm { lazy_nvm; npm "$@"; }
